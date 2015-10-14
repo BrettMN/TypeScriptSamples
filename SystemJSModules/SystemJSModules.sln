@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		NuGet.Config = NuGet.Config
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "StaticSight", "src\StaticSight\StaticSight.xproj", "{6122A3BA-A356-4395-B374-4E9E45352790}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SystemJSModules", "src\SystemJSModules\SystemJSModules.xproj", "{6122A3BA-A356-4395-B374-4E9E45352790}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

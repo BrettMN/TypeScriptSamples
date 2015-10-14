@@ -1,5 +1,5 @@
-/// <reference path="config.ts" />
-/// <reference path="services/service.ts" />
+/// <reference path="app/config.ts" />
+/// <reference path="app/services/service.ts" />
 
 
 

@@ -1,5 +1,5 @@
-/// <reference path="config.ts" />
-/// <reference path="services/service.ts" />
+/// <reference path="app/config.ts" />
+/// <reference path="app/services/service.ts" />
 System.register(['app/config', 'app/services/service'], function(exports_1) {
     var Config, Service;
     var config, service, address;
