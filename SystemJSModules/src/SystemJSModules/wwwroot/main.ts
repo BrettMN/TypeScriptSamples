@@ -1,8 +1,6 @@
 /// <reference path="app/config.ts" />
 /// <reference path="app/services/service.ts" />
 
-
-
 import Config = require('app/config');
 let config = new Config.Config();
 
